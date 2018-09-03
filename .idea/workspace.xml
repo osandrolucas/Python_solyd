@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec9ec55-98e7-4941-bb08-5ad9fbfd4784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/Aula 5 - Estruturas de laço (WHILE e FOR).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/Aula_02 - Entrada, saída, variáveis e operações matemáticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/Aula 2 - Entrada, saída, variáveis e operações matemáticas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,102 +16,51 @@
     <session id="1195111914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="60" />
-          <entry key="py" value="6374" />
-          <entry key="txt" value="88" />
+          <entry key="dummy" value="61" />
+          <entry key="py" value="9669" />
+          <entry key="txt" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="148" />
-          <entry key="Python" value="6374" />
+          <entry key="PLAIN_TEXT" value="183" />
+          <entry key="Python" value="9669" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula_02 - Entrada, saída, variáveis e operações matemáticas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula 3 - Operadores Lógicos e Estruturas de decisões(IF e ELSE).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula 4 - Strings e listas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula 5 - Estruturas de laço (WHILE e FOR).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula05.py">
+        <entry file="file://$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="379">
+              <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -143,6 +92,7 @@
         <option value="$PROJECT_DIR$/Aulas/Aula 4 - Strings e listas.py" />
         <option value="$PROJECT_DIR$/Aulas/Aula 5 - Estruturas de laço (WHILE e FOR).py" />
         <option value="$PROJECT_DIR$/Exercicios/Ex_Aula05.py" />
+        <option value="$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py" />
       </list>
     </option>
   </component>
@@ -160,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,7 +132,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex_Aula05">
+  <component name="RunManager" selected="Python.Aula 6 - Tuplas, dicionários e conjuntos">
     <configuration name="Aula 4 - Strings e listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aula 6 - Tuplas, dicionários e conjuntos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sandro_ferreira\PycharmProjects\Python_solyd\Aulas\Aula 3 - Operadores Lógicos e Estruturas de decisões(IF e ELSE).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +262,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Aula_03" />
       <item itemvalue="Python.Ex_Aula03" />
       <item itemvalue="Python.Aula 4 - Strings e listas" />
       <item itemvalue="Python.Aula 5 - Estruturas de laço (WHILE e FOR)" />
       <item itemvalue="Python.Ex_Aula05" />
+      <item itemvalue="Python.Aula 6 - Tuplas, dicionários e conjuntos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 6 - Tuplas, dicionários e conjuntos" />
         <item itemvalue="Python.Ex_Aula05" />
         <item itemvalue="Python.Aula 5 - Estruturas de laço (WHILE e FOR)" />
         <item itemvalue="Python.Aula 4 - Strings e listas" />
         <item itemvalue="Python.Ex_Aula03" />
-        <item itemvalue="Python.Aula_03" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535643382620</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aula 5 - Exercicio resolvido Aula 5">
+      <created>1535651291785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1535651291785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -424,7 +381,8 @@
     <MESSAGE value="Aula 3 + Resolução de Exercicio Aula 3" />
     <MESSAGE value="Aula 4 - inicio" />
     <MESSAGE value="Aula 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 4" />
+    <MESSAGE value="Aula 5 - Exercicio resolvido Aula 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 5 - Exercicio resolvido Aula 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Python_CeV/CursoemVideo/ex001.py">
@@ -441,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Aula_02 - Entrada, saída, variáveis e operações matemáticas.py">
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 2 - Entrada, saída, variáveis e operações matemáticas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
@@ -462,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Aula 4 - Strings e listas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -476,17 +427,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 4 - Strings e listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Aula 5 - Estruturas de laço (WHILE e FOR).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        <state relative-caret-position="860">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
         </state>
       </provider>
     </entry>

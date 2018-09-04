@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec9ec55-98e7-4941-bb08-5ad9fbfd4784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula 7 - Funções e Métodos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Aula_02 - Entrada, saída, variáveis e operações matemáticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/Aula 2 - Entrada, saída, variáveis e operações matemáticas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
     <session id="1195111914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.37" value="1" />
@@ -26,41 +26,56 @@
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="61" />
-          <entry key="py" value="9669" />
-          <entry key="txt" value="122" />
+          <entry key="py" value="10905" />
+          <entry key="txt" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="183" />
-          <entry key="Python" value="9669" />
+          <entry key="PLAIN_TEXT" value="219" />
+          <entry key="Python" value="10905" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Aula 7 - Funções e Métodos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding>
+                <marker date="1536078945413" expanded="true" signature="36:209" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1536079806150" expanded="true" signature="229:551" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +108,8 @@
         <option value="$PROJECT_DIR$/Aulas/Aula 5 - Estruturas de laço (WHILE e FOR).py" />
         <option value="$PROJECT_DIR$/Exercicios/Ex_Aula05.py" />
         <option value="$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py" />
+        <option value="$PROJECT_DIR$/Aulas/Aula 7 - Funções e Métodos.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula07.py" />
       </list>
     </option>
   </component>
@@ -110,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,11 +148,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -155,28 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula 6 - Tuplas, dicionários e conjuntos">
-    <configuration name="Aula 4 - Strings e listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_solyd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula 4 - Strings e listas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Ex_Aula07">
     <configuration name="Aula 5 - Estruturas de laço (WHILE e FOR)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_Aula03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aula 7 - Funções e Métodos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula 7 - Funções e Métodos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,20 +257,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Ex_Aula07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_solyd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Ex_Aula03" />
-      <item itemvalue="Python.Aula 4 - Strings e listas" />
       <item itemvalue="Python.Aula 5 - Estruturas de laço (WHILE e FOR)" />
       <item itemvalue="Python.Ex_Aula05" />
       <item itemvalue="Python.Aula 6 - Tuplas, dicionários e conjuntos" />
+      <item itemvalue="Python.Aula 7 - Funções e Métodos" />
+      <item itemvalue="Python.Ex_Aula07" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex_Aula07" />
+        <item itemvalue="Python.Aula 7 - Funções e Métodos" />
         <item itemvalue="Python.Aula 6 - Tuplas, dicionários e conjuntos" />
         <item itemvalue="Python.Ex_Aula05" />
         <item itemvalue="Python.Aula 5 - Estruturas de laço (WHILE e FOR)" />
-        <item itemvalue="Python.Aula 4 - Strings e listas" />
-        <item itemvalue="Python.Ex_Aula03" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535651291785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Aula 6 - Tuplas, dicionários e conjuntos">
+      <created>1535995081682</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535995081682</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -382,7 +406,8 @@
     <MESSAGE value="Aula 4 - inicio" />
     <MESSAGE value="Aula 4" />
     <MESSAGE value="Aula 5 - Exercicio resolvido Aula 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 5 - Exercicio resolvido Aula 5" />
+    <MESSAGE value="Aula 6 - Tuplas, dicionários e conjuntos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 6 - Tuplas, dicionários e conjuntos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Python_CeV/CursoemVideo/ex001.py">
@@ -450,8 +475,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Aula 6 - Tuplas, dicionários e conjuntos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        <state relative-caret-position="338">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 7 - Funções e Métodos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1536078945413" expanded="true" signature="36:209" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1536079806150" expanded="true" signature="229:551" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

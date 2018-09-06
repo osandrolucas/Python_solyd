@@ -27,4 +27,8 @@ print('Tentando incluir mais 70 litros....')
 carro_azul.abastecer(70)
 print('Tanque: {}l'.format(carro_azul.tanque))
 
+carro_juliano = Carro('ver','ford',30)
+
+
+
 

@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec9ec55-98e7-4941-bb08-5ad9fbfd4784" name="Default Changelist" comment="Aula 7 + Exercicio Aula 7">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/Aula 8 - Argumentos de linha de comando.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasico_oo/carro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasico_oo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasico_oo/veiculo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_solyd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_solyd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="0ec9ec55-98e7-4941-bb08-5ad9fbfd4784" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula 10 - Entrada e saída de arquivos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Ex_Aula09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/main_ex09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBasico_oo/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasico_oo/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,43 +19,46 @@
     <session id="1195111914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="26" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="61" />
-          <entry key="py" value="12968" />
-          <entry key="txt" value="177" />
+          <entry key="dummy" value="71" />
+          <entry key="py" value="16024" />
+          <entry key="txt" value="189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="238" />
-          <entry key="Python" value="12968" />
+          <entry key="PLAIN_TEXT" value="260" />
+          <entry key="Python" value="16024" />
         </counts>
       </usages-collector>
     </session>
@@ -66,34 +66,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Aula 8 - Argumentos de linha de comando.py">
+        <entry file="file://$PROJECT_DIR$/Exercicios/main_ex09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="218">
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
-                <marker date="1536161892336" expanded="true" signature="154:215" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonBasico_oo/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#236#284#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula10.py">
+        <entry file="file://$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="101" selection-start-column="101" selection-end-column="101" />
+            <state relative-caret-position="120">
+              <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+              <folding>
+                <marker date="1536250379228" expanded="true" signature="14:19" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <marker date="1536251285658" expanded="true" signature="12:810" ph="..." />
+                <marker date="1536251285658" expanded="true" signature="206:211" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Aula 10 - Entrada e saída de arquivos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -102,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/PythonBasico_oo/veiculo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <marker date="1536164244208" expanded="true" signature="196:205" ph="..." />
               </folding>
@@ -113,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonBasico_oo/carro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="140">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -154,17 +172,26 @@
         <option value="$PROJECT_DIR$/PythonBasico/veiculo.py" />
         <option value="$PROJECT_DIR$/PythonBasico/main.py" />
         <option value="$PROJECT_DIR$/PythonBasico-OO/main.py" />
-        <option value="$PROJECT_DIR$/PythonBasico_oo/main.py" />
         <option value="$PROJECT_DIR$/PythonBasico_oo/carro.py" />
         <option value="$PROJECT_DIR$/Exercicios/Ex_Aula10.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula10_cliente.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula10_conta.py" />
+        <option value="$PROJECT_DIR$/PythonBasico_oo/main.py" />
+        <option value="$PROJECT_DIR$/Aulas/Aula 10 - Entrada e saída de arquivos.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula09.py" />
+        <option value="$PROJECT_DIR$/Exercicios/main_ex10.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py" />
+        <option value="$PROJECT_DIR$/Exercicios/main_ex09.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py" />
+        <option value="$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1272" />
-    <option name="y" value="-8" />
+    <option name="x" value="1255" />
+    <option name="y" value="237" />
     <option name="width" value="1296" />
-    <option name="height" value="976" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +228,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,8 +251,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex_Aula10">
-    <configuration name="Ex_Aula10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main_ex09">
+    <configuration name="Aula 10 - Entrada e saída de arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_solyd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas/Aula 10 - Entrada e saída de arquivos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex_Aula09_cliente" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +285,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sandro_ferreira\PycharmProjects\Python_solyd\Exercicios\Ex_Aula09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex_Aula09_conta" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasico-OO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasico-OO/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_ex09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,32 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasico" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasico/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="veiculo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_solyd" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasico_oo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasico_oo/veiculo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/main_ex09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +358,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.veiculo (1)" />
-      <item itemvalue="Python.Ex_Aula10" />
+      <item itemvalue="Python.Aula 10 - Entrada e saída de arquivos" />
+      <item itemvalue="Python.main_ex09" />
+      <item itemvalue="Python.Ex_Aula09_cliente" />
+      <item itemvalue="Python.Ex_Aula09_conta" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex_Aula10" />
+        <item itemvalue="Python.main_ex09" />
+        <item itemvalue="Python.Ex_Aula09_conta" />
+        <item itemvalue="Python.Ex_Aula09_cliente" />
+        <item itemvalue="Python.Aula 10 - Entrada e saída de arquivos" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.veiculo (1)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536080038406</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Aula 8, 9">
+      <created>1536165775648</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1536165775648</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -440,7 +474,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38536584" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38292682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,6 +487,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14785373" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38292682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -467,7 +520,8 @@
     <MESSAGE value="Aula 5 - Exercicio resolvido Aula 5" />
     <MESSAGE value="Aula 6 - Tuplas, dicionários e conjuntos" />
     <MESSAGE value="Aula 7 + Exercicio Aula 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 7 + Exercicio Aula 7" />
+    <MESSAGE value="Aula 8, 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 8, 9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Python_CeV/CursoemVideo/ex001.py">
@@ -568,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/PythonBasico_oo/veiculo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <marker date="1536164244208" expanded="true" signature="196:205" ph="..." />
           </folding>
@@ -577,27 +631,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBasico_oo/carro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="140">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBasico_oo/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="572">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula10.py">
+    <entry file="file://$PROJECT_DIR$/Aulas/arquivo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="101" selection-start-column="101" selection-end-column="101" />
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula09.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 10 - Entrada e saída de arquivos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula09_cliente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+          <folding>
+            <marker date="1536250379228" expanded="true" signature="14:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1536251285658" expanded="true" signature="12:810" ph="..." />
+            <marker date="1536251285658" expanded="true" signature="206:211" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/main_ex09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#236#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

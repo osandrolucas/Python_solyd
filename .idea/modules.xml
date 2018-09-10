@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../PythonBasico/.idea/PythonBasico.iml" filepath="$PROJECT_DIR$/../PythonBasico/.idea/PythonBasico.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_solyd.iml" filepath="$PROJECT_DIR$/.idea/Python_solyd.iml" />
     </modules>
   </component>

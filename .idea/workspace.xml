@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Exercicios/Ex_Aula_13.py" line="33" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ec9ec55-98e7-4941-bb08-5ad9fbfd4784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/Aula 13 - API, JSON e consultando listas de filmes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex_Aula_13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/Aula 12 - Bibliotecas, PIP e Requisições Web.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/Aula 12 - Bibliotecas, PIP e Requisições Web.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +18,12 @@
     <session id="1195111914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.41" value="1" />
@@ -30,50 +32,71 @@
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="arquivex" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="31" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="28" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="71" />
-          <entry key="py" value="20119" />
-          <entry key="txt" value="253" />
+          <entry key="py" value="21955" />
+          <entry key="txt" value="300" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="324" />
-          <entry key="Python" value="20119" />
+          <entry key="PLAIN_TEXT" value="371" />
+          <entry key="Python" value="21955" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Aulas/Aula 13 - API, JSON e consultando listas de filmes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="45" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1536685590770" expanded="true" signature="553:1071" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula_13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -127,14 +150,15 @@
         <option value="$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py" />
         <option value="$PROJECT_DIR$/Aulas/Aula 12 - Bibliotecas, PIP e Requisições Web.py" />
         <option value="$PROJECT_DIR$/Aulas/Aula 13 - API, JSON e consultando listas de filmes.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Ex_Aula_13.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1255" />
-    <option name="y" value="237" />
+    <option name="x" value="1272" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="height" value="976" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aula 13 - API, JSON e consultando listas de filmes">
+  <component name="RunManager" selected="Python.Ex_Aula_13">
     <configuration name="Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_Aula09_conta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex_Aula_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_solyd" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula09_conta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex_Aula_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,18 +327,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.main_ex09" />
-      <item itemvalue="Python.Ex_Aula09_conta" />
       <item itemvalue="Python.Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT)" />
       <item itemvalue="Python.Aula 12 - Bibliotecas, PIP e Requisições Web" />
       <item itemvalue="Python.Aula 13 - API, JSON e consultando listas de filmes" />
+      <item itemvalue="Python.Ex_Aula_13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex_Aula_13" />
         <item itemvalue="Python.Aula 13 - API, JSON e consultando listas de filmes" />
         <item itemvalue="Python.Aula 12 - Bibliotecas, PIP e Requisições Web" />
         <item itemvalue="Python.Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT)" />
         <item itemvalue="Python.main_ex09" />
-        <item itemvalue="Python.Ex_Aula09_conta" />
       </list>
     </recent_temporary>
   </component>
@@ -420,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536597853849</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Aulas 12 e Aula 13 (Programa de Requisição de Filmes)">
+      <created>1536686768353</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1536686768354</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="976" extended-state="7" />
+    <frame x="1272" y="-8" width="1296" height="976" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14785373" />
@@ -432,7 +463,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41707316" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2609756" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -481,7 +512,8 @@
     <MESSAGE value="Aula 8, 9" />
     <MESSAGE value="Aulas 10 e resolução do exercicio da aula 9" />
     <MESSAGE value="Aulas 11 e inicio da aula 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aulas 11 e inicio da aula 12" />
+    <MESSAGE value="Aulas 12 e Aula 13 (Programa de Requisição de Filmes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aulas 12 e Aula 13 (Programa de Requisição de Filmes)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Python_CeV/CursoemVideo/ex001.py">
@@ -638,15 +670,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Aula 11 - Tratamentos de erros e exceções (TRY e EXCEPT).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Aula 12 - Bibliotecas, PIP e Requisições Web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="46" column="98" selection-start-line="46" selection-start-column="98" selection-end-line="46" selection-end-column="98" />
+        <state relative-caret-position="192">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -655,11 +687,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aulas/Aula 13 - API, JSON e consultando listas de filmes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="45" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1536685590770" expanded="true" signature="553:1071" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Ex_Aula_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

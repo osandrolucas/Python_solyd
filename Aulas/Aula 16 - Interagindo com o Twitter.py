@@ -3,10 +3,10 @@ import json
 
 #Consumer API keys
 
-consumer_key = 'wJ2GYSf9nEDCuBEEnb7vKb8yk'
-consumer_secret = '5G7KjGOeNd6bYs4pjdy50QnvBcPsVgRjbGpZPzhS32bCynXvpz'
-token_key = '236078820-96IlY5TB2S0LTpejyjUJSdH8xEYogoPQyXPtpWHQ'
-token_secret = '5rkZ5L7JUgElfgf0JSd0awEznaSp0wE84FONQQR0Ba6zX'
+consumer_key = ''
+consumer_secret = ''
+token_key = ''
+token_secret = ''
 
 #Criando objeto consumidor e Token com as duas informações que cada um tem
 consumer = oauth2.Consumer(consumer_key, consumer_secret)
